@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.home-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
